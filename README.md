@@ -1,0 +1,5 @@
+- Olá, meu nome é Laura Möller, tenho 18 e sou universitária do segundo semestre de ciência da computação na Univesidade Regional de Blumenau (FURB).
+- Meus interesses incluem programação, língua estrangeira, jogos e livros.
+- No semestre passado cursei as seguintes matérias: introdução à programação (Java), Arquitetura de computadores I, Introdução à Computação, Fundamentos Matemáticos, Diversidade e Sociedade e Universidade, Ciência e Pesquisa. 
+- Nesse semestre irei iniciar as seguintes disciplinas: banco de dados, POO, arquitetura de computadores II e Lógica para Computação.  
+- Você pode entrar em contato comigo via LinkedIn (https://www.linkedin.com/in/laura-soares-m%C3%B6ller-6612182b5).
